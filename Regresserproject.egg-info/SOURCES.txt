@@ -1,0 +1,7 @@
+README.md
+setup.py
+Regresserproject.egg-info/PKG-INFO
+Regresserproject.egg-info/SOURCES.txt
+Regresserproject.egg-info/dependency_links.txt
+Regresserproject.egg-info/requires.txt
+Regresserproject.egg-info/top_level.txt
